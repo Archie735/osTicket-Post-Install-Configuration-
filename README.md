@@ -14,7 +14,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11
 
 <h2>Must already have osTicket installed</h2>
 
