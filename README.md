@@ -16,7 +16,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 11</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Must already have osTicket installed</h2>
 
 <h3>Log in to your first admin</h3>
 
