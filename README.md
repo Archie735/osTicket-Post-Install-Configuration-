@@ -88,16 +88,68 @@ Iggy Grump
 
 <h3>Create some SLA</h3>
 
-<img src= 
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/3bd67b96-2322-4954-9667-93fadeb58688 width="50%" height="auto"/>
+
 
 SEV A
 
     Grace Period: 1 hour
     Schedule: 24/7
 
-    
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/d62e6d5d-1c31-4ba5-9cc7-282145ec74f9 width="50%" height="auto"/>
+
+SEV B
+
+      Grace Period: 4 hour
+      Schedule: 24/7
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/d77b738c-9999-4e7c-9217-cc3d738c86fd width="50%" height="auto"/>
+
+SEV C
+
+      Grace Period: 8 hour
+      Schedule: Monday - Friday 8am - 5pm with U.S. Holidays
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/fb9aa92b-5641-49aa-8e36-cd4e6487e8b8 width="50%" height="auto"/>
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/8afa92ae-0266-43da-b7f5-8fe5221e4312 width="50%" height="auto"/>
 
 
+<h3>Add Help Topics</h3>
 
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/6b094ff4-ca49-4edd-b929-091ac3360a62 width="50%" height="auto"/>
 
+Password Reset
 
+      Department: System Administrators
+      Priority: Normal
+      SLA Plan: SEV C
+      Auto-assign to: Level I Support
+
+Critical Business Outage
+
+      Department: System Administrators
+      Priority: Emergency
+      SLA Plan: SEV A
+      Auto-assign to: Summer Summerfield
+
+Accounting 
+
+      Department: System Administrators
+      Priority: High
+      SLA Plan: SEV B
+      Auto-assign to: Roger Bob
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/e82cac04-e232-4337-bc36-ab5bf1d26293 width="50%" height="auto"/>
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/b4f43a0f-8abe-4128-bce4-74c55de23ca4 width="50%" height="auto"/>
+
+<h3>On the Agent panel create new users</h3>
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/03bdb402-014f-4308-bb34-488ac9ea632a width="50%" height="auto"/>
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/1521f639-0e01-4d2b-b585-2a38b5b9ded6 width="50%" height="auto"/>
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/12263495-4c69-42b6-9ca1-779ccccfccb2 width="50%" height="auto"/>
+
+<img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/54200e83-25cf-4883-9b1f-6720e5e506bf width="50%" height="auto"/>
