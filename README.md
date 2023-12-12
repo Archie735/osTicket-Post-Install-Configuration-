@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/afe7a47d-ddb0-48c0-98c7-7a84fd47cb99" alt="osTicket logo"/>
+<img src="https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/afe7a47d-ddb0-48c0-98c7-7a84fd47cb99" width="50%" height="auto" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
@@ -153,3 +153,6 @@ Accounting
 <img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/12263495-4c69-42b6-9ca1-779ccccfccb2 width="50%" height="auto"/>
 
 <img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/54200e83-25cf-4883-9b1f-6720e5e506bf width="50%" height="auto"/>
+
+
+<h3>This concludes the end :)</h3>
