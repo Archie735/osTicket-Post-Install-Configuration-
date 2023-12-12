@@ -20,6 +20,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Log in to your first admin</h3>
 
+http://localhost/osTicket/scp/login.php
+
 
 <img src=https://github.com/Archie735/osTicket-Post-Install-Configuration-/assets/150314129/63570aa7-36ca-42ca-a753-851957d2413a width="50%" height="auto"/>
 
